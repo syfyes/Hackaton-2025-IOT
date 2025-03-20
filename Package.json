@@ -1,0 +1,16 @@
+{
+    "name": "Communication Arduino",
+    "version": "0.0.1",
+    "description" : " communication d'une page html a un document nodeJS en utlisant socket.io",
+    "dependencies": {
+        "serialport": "^9.0.1"
+
+    }
+
+
+
+
+
+
+
+}
